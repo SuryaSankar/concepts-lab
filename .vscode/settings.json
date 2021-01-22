@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/Users/admin/.pyenv/versions/py3lab/bin/python",
+    "python.testing.pytestArgs": [
+        "python"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
+}
