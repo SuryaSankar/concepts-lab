@@ -1,4 +1,4 @@
-const partitionArray = arr => {
+const partitionArray = (arr, elem) => {
     return arr;
 }
 
